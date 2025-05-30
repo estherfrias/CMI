@@ -13,7 +13,8 @@ Resumen : Este proyecto trata de una entrevista de trabajo con un pez, este real
 Estilo/género: juego
 Logotipo :(no hay)
 
-(insertar imágenes a resolucion de 100px alto)
+![633 sin título_20250408160829](https://github.com/user-attachments/assets/3261ef6d-7c9d-44bd-949b-8962102d38af)
+
 
 Resolución: 1280 x 1280
 
