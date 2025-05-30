@@ -1,50 +1,52 @@
-# (Nombre del proyecto)
+# (Peztrevista)
 Proyecto de Creación Multimedia Interactiva de la Facultad de Bellas Artes de la Univesidad de Granada
 
 ## 1 Datos
-Titulo : MI Proyecto(nombre)
+Titulo : Peztrevista
 
-Web: (url github.io)
+Web: [(url github.io)](https://estherfrias.github.io/proyetto/)
 
-Autor: (Nombre apellidos)
+Autor: (Esther Frías Puerma)
 
-Resumen : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+Resumen : Este proyecto trata de una entrevista de trabajo con un pez, este realiza preguntas a las que estás destinado a fallar, por eso estas son sustituidas por minijuegos que deberás completar para obtener el trabajo.
 
-Estilo/género: Novela / juego / portfolio / documental... etc.
-
-Logotipo : (insertar imagen y breve justificación, si tiene)
+Estilo/género: juego
+Logotipo :(no hay)
 
 (insertar imágenes a resolucion de 100px alto)
 
-Resolución: 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+Resolución: 1280 x 1280
 
-Probado en: (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+Probado en: Microsoft Edge
 
-Tamaño proyecto: 14MB
+Tamaño proyecto: 53KB
 
-Fecha : 14/05/2025
+Fecha : 20/05/2025
 
 Medios (donde se tiene presencia relacionada):
 
-Github:
-Twitter:
+Github: [(url github.io)](https://estherfrias.github.io/proyetto/)
+Twitter: 
 Instagram:
 Tiktok:
 
 ## 2. Memoria del proyecto
 ### 2.1. Storyboard:
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+Comienzas con un menú que tiene 2 opciones, la de jugar y la opciones, la de jugar lleva al juego directamente y la de opciiones al audio, música y personajes. Al clickear jugar te llevaría a el diálogo del pez, más adelante te hará un pregunta que debes de fallar para continuar, te pedirá completar un minijuego en su lugar al hacerlo consigues el trabjao. Si no, te despiden.
 
 ### 2.2. Esquema de navegación
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
+![631 sin título_20250401191602](https://github.com/user-attachments/assets/6c68ac28-317c-491f-8b18-04120d766430)
+![631 sin título_20250530152812](https://github.com/user-attachments/assets/bb9893b2-a647-475d-86be-c7764f9d7d81)
+![631 sin título_20250530153330](https://github.com/user-attachments/assets/34700198-7b80-4036-b55c-981a19662fa8)
+
 
 ## 3. Metodología
 
 Etapa 1: Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque me gustaría en algún futuro dedicarme a el desarrollo de videojuego o diseñarlos, el campo del concept art en base a videojuegos también me interesa bastante.
 
-Orientado a .. (Público)
+Orientado a todos los publicos
 
 Etapa 2: Desarrollo / actividades realizadas
 
@@ -53,10 +55,10 @@ Instrucciones y ayuda al usuario
 Menús y elementos de navegación (botones)
 etc.
 Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
+una vez finalizado el juego, el juego en si no vuelve al inicio que tenía antes, hay que refrescar la página para volverlo a jugar. En el selector de aspecto a veces no funcionan los botones una vez clickeado "aceptar" dentro de esta escena
 
 ## 4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Obviamente trataría de solucionar ese problema haciendo que se reproduzcan las imágenes de nuevo desde el fotograma 0 o algo así. En algún futuro añadiría más diálogos, personajes y minijuegos diferentes o remasterizados para que el juego sea más dinámico 
 
 ## 5 Referencias
 **Artículos y blogs **
@@ -65,7 +67,8 @@ Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new techn
 Recursos y materiales audiovisuales:
 
 **Hippani Animator 5.1**
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![image](https://github.com/user-attachments/assets/92476437-98c8-433f-be93-33274f9db421)
+
 
 https://creativecommons.org/licenses/?lang=es
 
